@@ -1,0 +1,3 @@
+# Icon placeholder
+# In a real deployment, you would place icon.ico and icon.png files here
+# For now, the application will run without icons
